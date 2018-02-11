@@ -9,7 +9,9 @@ d) git checkout .
 
 e) git commit -m "3 files added"
 
-f) git push
+f) git remote add origin https://github.com/AmrElarabi97/Sprint0.git
+   git push -u origin master
+
 
 h) git checkout -b ReadMe
 
@@ -20,6 +22,9 @@ j) git commit -m "new branch ReadMe"
 k) git checkout master
    git pull
    git merge ReadMe
+
+l) git add AllMyCommands.txt
+   git commit -m "AllMyCommands file added"
 
 
 
