@@ -1,0 +1,28 @@
+a) git init
+
+
+b) git add 1.1.txt 3.1.txt 5.1.txt
+
+c) rm 3.1.txt
+
+d) git checkout .
+
+e) git commit -m "3 files added"
+
+f) git push
+
+h) git checkout -b ReadMe
+
+i) git add README.md
+
+j) git commit -m "new branch ReadMe"
+
+k) git checkout master
+   git pull
+   git merge ReadMe
+
+
+
+   	
+
+
